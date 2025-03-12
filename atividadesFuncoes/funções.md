@@ -46,4 +46,4 @@ Implemente uma função que calcula a potência de um número (base) elevado a u
 \- Soma de Elementos de um Array  
 Crie uma função que recebe um array de inteiros e seu tamanho e retorna a soma de todos os elementos. No main, declare um array, inicialize-o e chame a função para calcular a soma.
 
-<img src="\Caso de uso.png">
+<img src="\casosefluxograma.png">
