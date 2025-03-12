@@ -1,4 +1,4 @@
-package Soma;
+
 import java.util.Scanner;
 
 public class projeto {
