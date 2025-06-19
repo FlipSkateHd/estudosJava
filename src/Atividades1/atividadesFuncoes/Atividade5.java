@@ -1,3 +1,5 @@
+package Atividades1.atividadesFuncoes;
+
 import java.util.Scanner;
 import java.util.Random;
 

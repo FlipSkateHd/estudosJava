@@ -1,3 +1,4 @@
+package Atividades1.Soma;
 
 import java.util.Scanner;
 
