@@ -9,7 +9,6 @@ public class CalculosGeometricos {
     }
 
 
-
     public static double calcularAreaCirculo(double raio) {  // Função Área circulo
         return Math.PI * raio * raio;
     }
@@ -56,7 +55,7 @@ public class CalculosGeometricos {
                     break;
 
                 case "T":
-                    // Cálculo da área do círculo
+                    // Cálculo da área do triângulo
                     System.out.print("Digite a base do triangulo (cm): ");
                     double base = Double.parseDouble(ler.nextLine());
                     System.out.print("Digite a altura do triangulo (cm): ");
