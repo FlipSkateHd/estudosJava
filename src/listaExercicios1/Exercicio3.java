@@ -1,3 +1,5 @@
+package listaExercicios1;
+
 import java.util.Scanner;
 import static java.lang.Byte.parseByte;
 import static java.lang.Integer.parseInt;

@@ -1,3 +1,5 @@
+package listaExercicios1;
+
 import java.util.Scanner;
 
 import static java.lang.Integer.parseInt;
@@ -6,7 +8,6 @@ import static java.lang.Integer.parseInt;
 public class Exercicio7 {
     public static void main(String[] args) {
         int nota = 0;
-        char conceito;
 
         Scanner leitor = new Scanner(System.in);
         System.out.print("Insira a nota (de 0 a 100): ");
