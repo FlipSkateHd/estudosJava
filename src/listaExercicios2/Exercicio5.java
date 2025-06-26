@@ -19,7 +19,7 @@ public class Exercicio5 {
 
 
         for (int i =0 ; i < primeirosValores ; i++) {
-            if (i > 1){
+            if (i > 1){  // a partir do i = 2, começa a regra
                 fibonacci.add(i,fibonacci.get(i - 1) + fibonacci.get(i - 2));
             } else {
                 fibonacci.add(i,i);
